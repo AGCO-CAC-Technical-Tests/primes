@@ -1,5 +1,5 @@
 # primes
-The following prompts are focused on prime numbers. To read the formal defintion of a prime number, go [here](https://en.wikipedia.org/wiki/Prime_number). Follow completion instructions shown in the README at [AGCO-CAC-Technical-Interviews](https://github.com/AGCO-CAC-Technical-Interviews). **Good luck!**
+This test is focused on prime numbers. To read the formal defintion of a prime number, go [here](https://en.wikipedia.org/wiki/Prime_number). Follow completion instructions shown in the README at [AGCO-CAC-Technical-Interviews](https://github.com/AGCO-CAC-Technical-Interviews). **Good luck!**
 
 ## Prompts
 
