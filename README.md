@@ -1,9 +1,9 @@
 # primes
-## [primes - GitHub Classroom](https://classroom.github.com/a/ajvpVPsB)
+## [primes - GitHub Classroom](https://classroom.github.com/a/LliJBxuh)
 <br> 
 
 ## Description
-This test is focused on prime numbers. To read the formal defintion of a prime number, go [here](https://en.wikipedia.org/wiki/Prime_number). Follow completion instructions shown in the README at [AGCO-CAC-Technical-Tests](https://github.com/AGCO-CAC-Technical-Tests). **Good luck!**
+This test is focused on prime numbers. To read the formal definition of a prime number, go [here](https://en.wikipedia.org/wiki/Prime_number). Follow completion instructions shown in the README at [AGCO-CAC-Technical-Tests](https://github.com/AGCO-CAC-Technical-Tests). **Good luck!**
 
 ## Prompts
 
@@ -15,4 +15,4 @@ This test is focused on prime numbers. To read the formal defintion of a prime n
 * Write your numerical solutions into the file `answers.csv`
 
 ## Hints
-* A well-built solution should take a few seconds to complete, not several minutes
+* A well-built solution should take a few seconds to run, not several minutes
