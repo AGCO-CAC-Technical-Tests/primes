@@ -1,4 +1,8 @@
 # primes
+## [primes - GitHub Classroom](https://classroom.github.com/a/ajvpVPsB)
+<br> 
+
+## Description
 This test is focused on prime numbers. To read the formal defintion of a prime number, go [here](https://en.wikipedia.org/wiki/Prime_number). Follow completion instructions shown in the README at [AGCO-CAC-Technical-Tests](https://github.com/AGCO-CAC-Technical-Tests). **Good luck!**
 
 ## Prompts
